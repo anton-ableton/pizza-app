@@ -1,6 +1,6 @@
 # 🍕 Shift Pizza Delivery App
 
-Проект веб-приложения для заказа пиццы. Использует React + Redux + Vite + TypeScript.
+React + Redux + Vite + TypeScript.
 
 ## 🚀 Установка
 
