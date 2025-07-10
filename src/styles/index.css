@@ -1,3 +1,10 @@
 @import "tailwindcss";
-@import "./reset.css";
-@import "./vars.css";
+
+:root {
+  --color-primary: #F4511E;
+  --color-background: #ffffff;
+}
+
+.dark {
+  --color-background: #1a1a1a;
+}
